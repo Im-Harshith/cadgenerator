@@ -39,9 +39,7 @@ Before running this application, ensure you have the following installed:
 ### Step 1: Clone or Download the Project
 
 Navigate to the project directory:
-```bash
-cd C:\Users\sriha\.gemini\antigravity\scratch\cad-prompt-generator
-```
+
 
 ### Step 2: Create a Virtual Environment (Recommended)
 
@@ -192,9 +190,6 @@ This is a hackathon project. Feel free to extend it with:
 - More sophisticated prompt engineering
 - Fine-tuned models for CAD generation
 
-## 📄 License
-
-Created for VNR College Hakathon - Challenge 3
 
 ---
 
