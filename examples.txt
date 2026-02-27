@@ -1,0 +1,33 @@
+# Example Prompts for AI CAD Generator
+
+## Basic Shapes
+
+1. "Make a cube with 50mm sides"
+2. "Design a cylinder 30mm diameter and 100mm height"
+3. "Create a sphere with radius 25mm"
+
+## Mechanical Components
+
+4. "Create a 120 mm long shaft with a 20 mm diameter and add a 4 mm keyway"
+5. "Design a rectangular plate 100x50x5 mm with four 6mm holes at the corners"
+6. "Make a bracket with a 90-degree bend, 50mm on each side, 3mm thick"
+
+## Complex Shapes
+
+7. "Create a hollow cylinder with outer diameter 40mm, inner diameter 30mm, and height 60mm"
+8. "Design a box 80x60x40mm with a 10mm radius fillet on all edges"
+9. "Make a gear with 20 teeth, 50mm diameter, and 10mm thickness"
+
+## Multi-Part Assemblies
+
+10. "Create a simple hinge with two parts connected by a cylindrical pin"
+11. "Design a T-joint connector for 20mm diameter pipes"
+12. "Make a simple clamp with a screw mechanism"
+
+## Tips for Better Results
+
+- Be specific with dimensions and units (mm is assumed by default)
+- Mention geometric relationships clearly (e.g., "centered", "at corners", "aligned")
+- For complex shapes, break them down into simpler components
+- Specify operations like holes, cuts, fillets, chamfers explicitly
+- Use clear, engineering-focused language
